@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app has been deployed here:- https://my-covid-c4c70.web.app/
 
 ## Available Scripts
 
